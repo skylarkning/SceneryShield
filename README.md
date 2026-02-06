@@ -1,5 +1,5 @@
 # SceneryShield
-<img src="LicenceKeyGenerator.png" width="128" alt="LicenceKeyGenerator Icon">
+<img src="SceneryShield.jpg" width="128" alt="SceneryShield Icon">
 
 **SceneryShield** is a professional-grade DRM and encryption solution designed specifically for Microsoft Flight Simulator (MSFS) scenery developers. It protects paid assets through a combination of secure physical isolation, hardcoded license validation, and traceable digital fingerprints—ensuring creators maintain control over their distribution while deterring piracy without disrupting the end-user experience.
 
