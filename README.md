@@ -114,9 +114,6 @@ Si vous préparez une sortie MSFS payante et souhaitez une protection profession
 📧 Email: **[skylarkning@gmail.com](mailto:skylarkning@gmail.com)**
 🌐 GitHub：Issue または上記メールよりお問い合わせください。
 
-好，我们做成一个**正式 Roadmap 四语版本**，语气统一、结构对称、读起来像产品发展计划，而不是简单 TODO。
-你可以直接粘到 README 里。
-
 ---
 
 # 🚀 Next Steps | 下一步计划 | Prochaines Étapes | 今後の計画
