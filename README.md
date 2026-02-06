@@ -113,3 +113,98 @@ Si vous préparez une sortie MSFS payante et souhaitez une protection profession
 
 📧 Email: **[skylarkning@gmail.com](mailto:skylarkning@gmail.com)**
 🌐 GitHub：Issue または上記メールよりお問い合わせください。
+
+好，我们做成一个**正式 Roadmap 四语版本**，语气统一、结构对称、读起来像产品发展计划，而不是简单 TODO。
+你可以直接粘到 README 里。
+
+---
+
+# 🚀 Next Steps | 下一步计划 | Prochaines Étapes | 今後の計画
+
+SceneryShield will continue evolving with a focus on automation, scalability, and advanced license control.
+
+SceneryShield 将持续发展，重点提升自动化能力、可扩展性与授权管理控制。
+
+SceneryShield continuera d’évoluer avec un accent sur l’automatisation, l’évolutivité et le contrôle avancé des licences.
+
+SceneryShield は自動化・拡張性・高度なライセンス管理を中心に、今後も進化を続けます。
+
+---
+
+## 1️⃣ Developer GUI Application | 自助加密应用
+
+**Target Release: May 2026**
+
+### English
+
+Development of a dedicated GUI application that will allow scenery creators to encrypt, package, and publish their projects independently.
+
+The application will streamline the SceneryShield workflow and provide an intuitive interface for license generation and release management.
+
+### 中文
+
+开发专用 GUI 应用程序，使地景开发者能够自主完成项目加密、封装与发布。
+
+该工具将优化 SceneryShield 工作流程，并提供直观的许可证生成与发布管理界面。
+
+### Français
+
+Développement d’une application GUI dédiée permettant aux développeurs de scènes de chiffrer, empaqueter et publier leurs projets de manière indépendante.
+
+L’application simplifiera le flux de travail SceneryShield et offrira une interface intuitive pour la génération et la gestion des licences.
+
+### 日本語
+
+シーナリー開発者が自ら暗号化・パッケージ化・公開を行える専用 GUI アプリケーションを開発予定です。
+
+SceneryShield のワークフローを簡素化し、ライセンス生成およびリリース管理のための直感的なインターフェースを提供します。
+
+---
+
+## 2️⃣ Remote License Management System | 远程许可证管理系统
+
+**Target Release: July 2026**
+
+### English
+
+Implementation of a secure remote license management system providing advanced distribution control for commercial scenery products.
+
+Planned capabilities include:
+
+* Limiting the number of simultaneous installations across different devices
+* Real-time license validation
+* Immediate revocation of licenses involved in piracy
+* Centralized monitoring and control
+
+### 中文
+
+构建安全的远程许可证管理系统，为商业地景产品提供更高级别的分发控制能力。
+
+计划功能包括：
+
+* 限制不同设备上的同时安装数量
+* 实时许可证验证
+* 对涉及盗版的许可证进行即时吊销
+* 集中式监控与管理
+
+### Français
+
+Mise en place d’un système sécurisé de gestion de licences à distance offrant un contrôle avancé de la distribution des produits commerciaux.
+
+Fonctionnalités prévues :
+
+* Limitation du nombre d’installations simultanées sur différents appareils
+* Validation des licences en temps réel
+* Révocation immédiate des licences impliquées dans le piratage
+* Surveillance et contrôle centralisés
+
+### 日本語
+
+商用シーナリー製品向けに高度な配布管理を可能にする、安全なリモートライセンス管理システムを実装予定です。
+
+予定機能：
+
+* 複数デバイス間での同時インストール数の制限
+* リアルタイムライセンス検証
+* 不正利用が確認されたライセンスの即時無効化
+* 集中管理および監視機能
