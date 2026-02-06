@@ -2,6 +2,8 @@
 
 <img src="SceneryShield.jpg" width="128" alt="SceneryShield Icon">
 
+> **A professional DRM and offline license management framework for MSFS 2020/2024 scenery developers.**
+
 ---
 
 # 🌍 Overview | 项目简介 | Présentation | 概要
