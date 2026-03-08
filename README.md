@@ -7,6 +7,9 @@
 ---
 
 # 🌍 Overview | 项目简介 | Présentation | 概要
+Latest Version: SceneryShield 1.1
+
+Last updated on March 5, 2026
 
 ---
 ## English
@@ -18,8 +21,6 @@ It protects commercial scenery assets through secure file isolation, license val
 The first production deployment has been successfully implemented for **Ryan Ye – Wenzhou Longwan Airport (ZSWZ)**.
 🔗 Product Page: [https://secure.simmarket.com/ryanye-wenzhou-longwan-airport-zswz-msfs2024.phtml](https://secure.simmarket.com/ryanye-wenzhou-longwan-airport-zswz-msfs2024.phtml)
 
-Latest Version: SceneryShield 1.1
-Released with RyanYe ZSWZ v1.1
 
 ---
 
@@ -166,7 +167,7 @@ SceneryShield のワークフローを簡素化し、ライセンス生成およ
 
 ## 2️⃣ Remote License Management System | 远程许可证管理系统
 
-**Target Release: July 2026**
+**Target Release: September 2026**
 
 ### English
 
