@@ -7,9 +7,9 @@
 ---
 
 # 🌍 Overview | 项目简介 | Présentation | 概要
-Latest Version: SceneryShield 1.1
+Latest Version: SceneryShield 1.2
 
-Last updated on March 5, 2026
+Last updated on March 9, 2026
 
 ---
 ## English
