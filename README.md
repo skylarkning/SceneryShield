@@ -7,6 +7,10 @@
 ---
 
 # 🌍 Overview | 项目简介 | Présentation | 概要
+
+Due to force majeure circumstances, **SceneryShield has officially ceased further development** and will no longer grant application access to developers. Developers are advised to apply for distribution through the built-in MSFS Marketplace.
+由于不可抗力的因素，SceneryShield已正式停止进一步开发，不再对开发者开放应用权限，建议开发者申请MSFS内置市场的商品发布资格。
+
 Latest Version: SceneryShield 1.2
 
 Last updated on March 9, 2026
